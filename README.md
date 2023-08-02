@@ -9,15 +9,18 @@ The primary motivation behind creating this repository is to document my progres
 **Tutorials**
 
 [Selenium Cucumber Java BDD Framework 9](https://www.youtube.com/playlist?list=PLhW3qG5bs-L_mFHirOLEYJ7X2rIXu8SR2)
+
 Description: In this video, I gained an understanding of Behavior-Driven Development (BDD) and its importance in software testing. The tutorial covered the initial setup of the Selenium Cucumber Java BDD Framework, including project structure, dependencies, and configuration.
 
 **How to Use This Repository**
 
 1. Clone this repository to your local machine using the following command:
-    git clone https://github.com/02aurellia/RnD-Cucumber-Java.git 
-2. Navigate to the specific tutorial folder that interests you:
+    git clone https://github.com/02aurellia/RnD-Cucumber-Java.git
+   
+3. Navigate to the specific tutorial folder that interests you:
     cd RnD-Cucumber-Java/src/test
-3. Inside each tutorial folder, you'll find code examples and any additional resources I've created.
+   
+5. Inside each tutorial folder, you'll find code examples and any additional resources I've created.
 
 **Contributions and Feedback**
 
@@ -27,4 +30,4 @@ While this repository is primarily a personal learning log, I welcome any sugges
 This repository is licensed under the MIT License.
 
 **Contact**
-You can connect with me on [www.linkedin.com/in/aurelliaaz] if you'd like to discuss any of the tutorials or share your thoughts.
+You can connect with me on [LinkedIn](www.linkedin.com/in/aurelliaaz) if you'd like to discuss any of the tutorials or share your thoughts.
