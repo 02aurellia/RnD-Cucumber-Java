@@ -16,18 +16,18 @@ Description: In this video, I gained an understanding of Behavior-Driven Develop
 
 1. Clone this repository to your local machine using the following command:
     git clone https://github.com/02aurellia/RnD-Cucumber-Java.git
-   
-3. Navigate to the specific tutorial folder that interests you:
+2. Navigate to the specific tutorial folder that interests you:
     cd RnD-Cucumber-Java/src/test
-   
-5. Inside each tutorial folder, you'll find code examples and any additional resources I've created.
+3. Inside each tutorial folder, you'll find code examples and any additional resources I've created.
 
 **Contributions and Feedback**
 
 While this repository is primarily a personal learning log, I welcome any suggestions, corrections, or discussions that can enhance the content. Feel free to open an issue or pull request if you have something to share.
 
 **License**
+
 This repository is licensed under the MIT License.
 
 **Contact**
+
 You can connect with me on [LinkedIn](www.linkedin.com/in/aurelliaaz) if you'd like to discuss any of the tutorials or share your thoughts.
