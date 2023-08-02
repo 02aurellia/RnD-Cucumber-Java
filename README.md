@@ -1,6 +1,6 @@
 # RnD-Cucumber-Java
 
-This repository serves as a personal record of my learning journey through various YouTube tutorials. It contains code, notes, and projects that I've created while following along with different tutorial videos.
+This repository serves as a personal record of my learning journey through YouTube tutorials. It contains code, notes, and projects that I've created while following the tutorial videos. 
 
 **Motivation**
 
